@@ -22,3 +22,21 @@ select,
 textarea {
     max-width: 280px;
 }
+
+
+.clafixedalert {
+    top: 51px;
+    z-index: 1030;
+    position: fixed;
+    right: 0;
+    left: 0;
+    border-width: 0 0 1px;
+}
+
+.clascrollablebody {
+    margin-top: 100px;
+}
+
+.clameasure {
+    margin-top: 100px;
+}
